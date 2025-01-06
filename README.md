@@ -1,1 +1,2 @@
-2025/01/06# GitLearing
+# GitLearing
+Creating a new branch is quick & simple.
